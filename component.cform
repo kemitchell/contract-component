@@ -8,7 +8,7 @@
 
     \\ ""Definitions"" means specific definitions given to words and phrases.
 
-    \\ ""Rules of Construction"" means rules for interpretation of language.
+    \\ ""Rules of Interpretation"" means rules for interpretation of language.
 
     \\ Each of the following is true of every <Component>:
 
@@ -28,14 +28,14 @@
         # Elsewhere
         \\ The parties do not intend <Usage> <Elsewhere> to affect interpretation of language in the <Component>.
 
-        # Rules of Construction
+        # Rules of Interpretation
 
         # In Component
-        \\ The parties do not intend <Rules of Construction> in the <Component> to affect interpretation of language <Elsewhere>.
+        \\ The parties do not intend <Rules of Interpretation> in the <Component> to affect interpretation of language <Elsewhere>.
 
         # Elsewhere
-        \\ The parties do not intend <Rules of Construction> <Elsewhere> to affect interpretation of language in the <Component>.
+        \\ The parties do not intend <Rules of Interpretation> <Elsewhere> to affect interpretation of language in the <Component>.
 
-        # Isolation
+        # Independent Interpretation
 
-        \\ The parties intend the <Component> be construed as independently as possible from the rest of this agreement.
+        \\ The parties intend the <Component> be interpreted as independently as possible from the rest of this agreement.
