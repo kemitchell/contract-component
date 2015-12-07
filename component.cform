@@ -4,13 +4,19 @@
 
     \\ With respect to a <Component>, ""Elsewhere"" means outside that <Component> and any <Child Component> of that <Component>, in some other part of this agreement.
 
+    # See California Civil Code 1644 ("The words of a contract are to be understood in their ordinary and popular sense, rather than according to their strict legal meaning; unless used by the parties in a technical sense, or unless a special meaning is given to them by usage, in which case the latter must be followed.").
+
     \\ ""Usage"" means the senses in which words and phrases are used.
 
     \\ ""Definitions"" means specific definitions given to words and phrases.
 
+    # See California Civil Code 1638 ("The language of a contract is to govern its interpretation, if the language is clear and explicit, and does not involve an absurdity.").
+
     \\ ""Rules of Interpretation"" means rules for interpretation of language.
 
     \\ Each of the following is true of every <Component>:
+
+        # Re intent of the parties, see California Civil Code 1636 ("A contract must be so interpreted as to give effect to the mutual intention of the parties as it existed at the time of contracting, so far as the same is ascertainable and lawful.").
 
         # Definitions
 
@@ -38,4 +44,5 @@
 
         # Independent Interpretation
 
+        # Override California Civil Code 1641 ("The whole of a contract is to be taken together, so as to give effect to every part, if reasonably practicable, each clause helping to interpret the other.").
         \\ The parties intend the <Component> be interpreted as independently as possible from the rest of this agreement, in isolation.
